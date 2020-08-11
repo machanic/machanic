@@ -1,4 +1,4 @@
-![machen's github stats](https://github-readme-stats.vercel.app/api?username=machanic&show_icons=true&theme=nord)
+![Github stats](https://github-readme-stats.vercel.app/api?username=machanic&show_icons=true&theme=nord)
 
 <!--
 **machanic/machanic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
